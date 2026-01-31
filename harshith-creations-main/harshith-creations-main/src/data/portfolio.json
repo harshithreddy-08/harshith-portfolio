@@ -1,0 +1,110 @@
+{
+  "personal": {
+    "name": "K Harshit Kumar Reddy",
+    "title": "AI/ML Engineer & Full Stack Developer",
+    "nickname": "Harshith",
+    "education": "Final-Year B.Tech CSE Student at Mohan Babu University",
+    "location": "Tirupati, Andhra Pradesh",
+    "bio": "Passionate developer focused on crafting scalable web applications and AI-driven solutions. Expertise spans frontend technologies, backend systems, and deep learning models."
+  },
+  "contact": {
+    "email": "harshithkumar.reddy08@gmail.com",
+    "phone": "+91 8519994948",
+    "linkedin": "https://linkedin.com/in/harshithreddy08",
+    "github": "https://github.com/harshith-08"
+  },
+  "skills": {
+    "frontend": {
+      "React.js": 92,
+      "JavaScript": 88,
+      "Tailwind CSS": 90
+    },
+    "backend": {
+      "Node.js": 85,
+      "Express.js": 82,
+      "PHP & MySQL": 80
+    },
+    "aiml": {
+      "Python": 90,
+      "TensorFlow & Keras": 85,
+      "Deep Learning": 85
+    }
+  },
+  "projects": [
+    {
+      "name": "goSTOPS AI Companion",
+      "description": "AI-powered web app that matches solo travelers with their ideal hostel vibe across 30+ destinations. Features smart preference-based recommendations and 24/7 hostel info chat assistant.",
+      "website": "https://solo-guide-buddy.vercel.app",
+      "tags": ["AI", "Travel", "React", "Gemini"],
+      "highlights": [
+        "Built for goSTOPS, India's leading youth hostel brand",
+        "Smart preference-based recommendations",
+        "24/7 hostel info chat assistant",
+        "Covers 30+ destinations"
+      ]
+    },
+    {
+      "name": "Travel Nest",
+      "description": "Comprehensive travel booking platform inspired by goSTOPS design philosophy",
+      "tags": ["Full Stack", "Travel", "Booking"],
+      "type": "replica"
+    },
+    {
+      "name": "Astram Labs Website",
+      "organization": "IIT Hyderabad",
+      "description": "Professional website for Astram Labs at IIT Hyderabad. Recognized with Certificate of Appreciation for exceptional quality and performance.",
+      "certificate": "https://drive.google.com/file/d/11MSHoAydt4cnB90ybTB2G5lye7W1vd81/view?usp=sharing",
+      "tags": ["Web Development", "React", "Production"]
+    },
+    {
+      "name": "SVRM College Website",
+      "organization": "SVRM College",
+      "description": "Official college website with modern design and accessibility features. Acknowledged with Certificate of Appreciation.",
+      "certificate": "https://drive.google.com/file/d/1OD1Wa6sl5B0R2ZK95aYi-wk7m3iz4vf9/view?usp=drive_link",
+      "tags": ["Web Development", "Education", "Accessibility"]
+    },
+    {
+      "name": "Food Waste Management System",
+      "description": "System designed to reduce food waste and improve distribution",
+      "website": "https://enchanting-manatee-258768.netlify.app/#contact",
+      "tags": ["Social Impact", "Web Development"]
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Certificate of Appreciation",
+      "organization": "Astram Labs, IIT Hyderabad",
+      "description": "Recognized for developing and deploying a professional website with exceptional quality and performance",
+      "link": "https://drive.google.com/file/d/11MSHoAydt4cnB90ybTB2G5lye7W1vd81/view?usp=sharing"
+    },
+    {
+      "title": "Certificate of Appreciation",
+      "organization": "SVRM College",
+      "description": "Acknowledged for building the official college website with modern design and accessibility features",
+      "link": "https://drive.google.com/file/d/1OD1Wa6sl5B0R2ZK95aYi-wk7m3iz4vf9/view?usp=drive_link"
+    },
+    {
+      "title": "AI/ML Project Recognition",
+      "organization": "University Showcase",
+      "description": "Projects featured in university showcase for innovative applications of artificial intelligence and machine learning"
+    }
+  ],
+  "internships": [
+    {
+      "company": "Cognitzy",
+      "role": "Intern",
+      "description": "Worked on AI and ML projects"
+    },
+    {
+      "company": "Code Alpha",
+      "role": "Intern",
+      "description": "Full stack development internship"
+    }
+  ],
+  "highlights": [
+    "Clean Code - Writing maintainable, scalable solutions",
+    "Fast Delivery - Production-grade projects on time",
+    "Goal-Oriented - Focused on measurable impact"
+  ],
+  "seeking": "Currently seeking internships where I can leverage my full-stack development and AI/ML expertise to create impactful solutions, especially with goSTOPS to help shape the future of youth travel in India."
+}
