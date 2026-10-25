@@ -1,110 +1,195 @@
 {
   "personal": {
-    "name": "K Harshit Kumar Reddy",
-    "title": "AI/ML Engineer & Full Stack Developer",
+    "name": "Harshith Kumar Reddy",
+    "title": "Full Stack Engineer • AI-Native Builder",
+    "subtitle": "High-Agency Startup Builder | 10k+ B2B Users Scaled | Multimodal AI & Distributed Systems",
     "nickname": "Harshith",
-    "education": "Final-Year B.Tech CSE Student at Mohan Babu University",
-    "location": "Tirupati, Andhra Pradesh",
-    "bio": "Passionate developer focused on crafting scalable web applications and AI-driven solutions. Expertise spans frontend technologies, backend systems, and deep learning models."
+    "education": "B.Tech in Computer Science & Engineering (Data Science) • Mohan Babu University (CGPA: 8.63 / 10.0)",
+    "location": "Bengaluru, India",
+    "bio": "Hands-on engineer with a strong bias for action and proven end-to-end production delivery. Experienced in shipping scalable B2B platforms to 10,000+ users across 50+ institutions, designing high-throughput messaging infrastructure (NATS, Protobuf, WebSockets), and deploying multimodal AI media pipelines (Gemini, FFmpeg, speech-to-text). Daily AI-native workflow (Cursor, Claude, Copilot) for rapid shipping and zero-to-one problem solving.",
+    "status": "Actively seeking Full-Stack & AI Engineering roles at high-growth startups and innovative tech teams."
   },
   "contact": {
-    "email": "harshithkumar.reddy08@gmail.com",
-    "phone": "+91 8519994948",
+    "email": "harshitkumar.reddy08@gmail.com",
+    "phone": "+91-8519949948",
     "linkedin": "https://linkedin.com/in/harshithreddy08",
-    "github": "https://github.com/harshith-08"
+    "github": "https://github.com/harshithreddy-08",
+    "resumeUrl": "https://drive.google.com/file/d/1OD1Wa6sl5B0R2ZK95aYi-wk7m3iz4vf9/view?usp=drive_link"
   },
-  "skills": {
-    "frontend": {
-      "React.js": 92,
-      "JavaScript": 88,
-      "Tailwind CSS": 90
+  "metrics": [
+    { "value": "10,000+", "label": "Active B2B Users Scaled", "sub": "Across 50+ colleges" },
+    { "value": "99.8%", "label": "Production Service Uptime", "sub": "Autonomous CI/CD ownership" },
+    { "value": "<1ms", "label": "Inter-Agent Latency", "sub": "NATS Broker & Protobuf" },
+    { "value": "91%", "label": "AI Tabular Benchmark", "sub": "Self-correcting query agent" },
+    { "value": "8.63", "label": "CGPA / 10.0", "sub": "Data Science & CSE" }
+  ],
+  "experience": [
+    {
+      "role": "AI Full-Stack Developer",
+      "company": "ArivuPro Academy",
+      "location": "Bengaluru, India",
+      "period": "May 2026 – Present (5 Months)",
+      "badge": "Production Platform Engineering",
+      "bullets": [
+        "Scale & Architecture: Architected, built, and shipped a microservices-based multi-tenant B2B SaaS platform serving 10,000+ active users across 50+ colleges using Node.js, FastAPI, PostgreSQL, and Docker.",
+        "Real-Time Data & Workflows: Built role-based analytics dashboards with real-time state synchronization; implemented tenant-isolated queries and automated data ingestion reducing institutional manual administrative effort by 40%.",
+        "Autonomous Feature Ownership: Spearheaded continuous integration/deployment via GitHub Actions, owning deployments from schema design to frontend components with 99.8% service uptime.",
+        "AI-Powered Automation: Integrated LLM-driven reporting, document-to-data extraction, and automated prompt evaluation pipelines, unblocking departmental operations and compressing reporting cycles from hours to minutes."
+      ],
+      "tags": ["FastAPI", "Node.js", "PostgreSQL", "Docker", "LLM Pipelines", "CI/CD"]
     },
-    "backend": {
-      "Node.js": 85,
-      "Express.js": 82,
-      "PHP & MySQL": 80
+    {
+      "role": "Research Intern – Distributed Systems & RL",
+      "company": "IIT Tirupati (IDEAGEN Collaboration)",
+      "location": "Tirupati, India",
+      "period": "May 2025 – Apr 2026",
+      "badge": "Distributed Messaging & Security",
+      "bullets": [
+        "Messaging & Comms Infrastructure: Built a distributed web penetration testing engine powered by NATS messaging broker and Protocol Buffers, enabling sub-millisecond inter-agent communication.",
+        "Agentic Automation: Engineered hierarchical multi-agent reinforcement learning pipelines targeting 15+ attack paths; cut manual security testing time by 60% with structured telemetry and automated triage."
+      ],
+      "tags": ["NATS Messaging", "Protocol Buffers", "Multi-Agent RL", "Distributed Systems", "Telemetry"]
     },
-    "aiml": {
-      "Python": 90,
-      "TensorFlow & Keras": 85,
-      "Deep Learning": 85
+    {
+      "role": "Frontend Developer (Contract)",
+      "company": "ASTRAM Lab, IIT Hyderabad",
+      "location": "Hyderabad, India",
+      "period": "2024",
+      "badge": "Production Web Portal",
+      "bullets": [
+        "Delivered a responsive research web platform using React.js and modern state management with RESTful API integrations.",
+        "Recognized with official Letter of Appreciation from IIT Hyderabad leadership for rapid feature turnaround and high-fidelity implementation."
+      ],
+      "tags": ["React.js", "RESTful APIs", "State Management", "UI/UX"]
     }
+  ],
+  "skills": {
+    "ai_media": [
+      { "name": "LLM Orchestration (Gemini, Claude, OpenAI)", "level": 94 },
+      { "name": "Agentic Tool-Use & LangChain", "level": 92 },
+      { "name": "Multimodal Audio/Video & FFmpeg", "level": 88 },
+      { "name": "AI-Native Dev Workflow (Cursor, Copilot)", "level": 96 },
+      { "name": "TensorFlow, Keras & CNNs", "level": 86 }
+    ],
+    "backend_distributed": [
+      { "name": "FastAPI & Python", "level": 92 },
+      { "name": "Node.js & Express", "level": 88 },
+      { "name": "NATS Messaging & WebSockets", "level": 86 },
+      { "name": "Protocol Buffers & Microservices", "level": 85 },
+      { "name": "PostgreSQL, MySQL & Redis", "level": 90 }
+    ],
+    "frontend_web": [
+      { "name": "React.js & Next.js", "level": 92 },
+      { "name": "TypeScript & ES6+ JavaScript", "level": 90 },
+      { "name": "Tailwind CSS & Modern UI", "level": 94 },
+      { "name": "State Management & Responsive Layouts", "level": 90 }
+    ],
+    "devops_infra": [
+      { "name": "Docker & Containerization", "level": 88 },
+      { "name": "GitHub Actions CI/CD", "level": 88 },
+      { "name": "Git & Agile Workflow", "level": 92 },
+      { "name": "Linux & Microservices Deployment", "level": 85 }
+    ]
   },
   "projects": [
     {
-      "name": "goSTOPS AI Companion",
-      "description": "AI-powered web app that matches solo travelers with their ideal hostel vibe across 30+ destinations. Features smart preference-based recommendations and 24/7 hostel info chat assistant.",
-      "website": "https://solo-guide-buddy.vercel.app",
-      "tags": ["AI", "Travel", "React", "Gemini"],
-      "highlights": [
-        "Built for goSTOPS, India's leading youth hostel brand",
-        "Smart preference-based recommendations",
-        "24/7 hostel info chat assistant",
-        "Covers 30+ destinations"
-      ]
+      "id": "lingocut",
+      "title": "LingoCut – AI Video Dubbing & Multimodal Pipeline",
+      "subtitle": "Multimodal Media Automation Platform",
+      "description": "Built an end-to-end media automation platform converting educational video into colloquial, code-switched voiceovers across 12 Indian regional language variants with pitch-preserved audio synchronization.",
+      "bullets": [
+        "Designed resilient background worker queues with per-segment retries, checkpoint/resume logic, and audio-transcription validation to guarantee zero job drop-off during long audio/video processing.",
+        "Integrated Gemini Multimodal API with FFmpeg audio chunking and speech-to-text alignment for zero latency drift."
+      ],
+      "tags": ["Node.js", "React", "Gemini AI", "FFmpeg", "REST APIs", "Audio Sync"],
+      "featured": true,
+      "badge": "Flagship AI Project"
     },
     {
-      "name": "Travel Nest",
-      "description": "Comprehensive travel booking platform inspired by goSTOPS design philosophy",
-      "tags": ["Full Stack", "Travel", "Booking"],
-      "type": "replica"
+      "id": "ai-data-agent",
+      "title": "Autonomous AI Data Analyst & Query Agent",
+      "subtitle": "Self-Correcting Conversational BI Engine",
+      "description": "Engineered an autonomous conversational data agent with self-correcting tool-use chains achieving 91% accuracy on complex tabular benchmarks.",
+      "bullets": [
+        "Implemented end-to-end autonomous chains for schema profiling, dynamic SQL generation, multi-stage query error correction, and chart rendering.",
+        "Connected PostgreSQL database backends with LangChain tool agents and interactive Streamlit UI."
+      ],
+      "tags": ["FastAPI", "LangChain", "OpenAI API", "Streamlit", "PostgreSQL", "Tool-Use"],
+      "featured": true,
+      "badge": "91% Benchmark Accuracy"
     },
     {
-      "name": "Astram Labs Website",
-      "organization": "IIT Hyderabad",
-      "description": "Professional website for Astram Labs at IIT Hyderabad. Recognized with Certificate of Appreciation for exceptional quality and performance.",
+      "id": "astram-lab",
+      "title": "Astram Labs Research Platform (IIT Hyderabad)",
+      "subtitle": "Production Research Portal",
+      "description": "Developed and deployed a high-performance research platform for Astram Labs at IIT Hyderabad, recognized with an official Letter of Appreciation.",
+      "website": "https://astramlabiith.in",
       "certificate": "https://drive.google.com/file/d/11MSHoAydt4cnB90ybTB2G5lye7W1vd81/view?usp=sharing",
-      "tags": ["Web Development", "React", "Production"]
+      "tags": ["React.js", "Production", "RESTful APIs", "UI/UX"],
+      "featured": true,
+      "badge": "Official Letter of Appreciation"
     },
     {
-      "name": "SVRM College Website",
-      "organization": "SVRM College",
-      "description": "Official college website with modern design and accessibility features. Acknowledged with Certificate of Appreciation.",
+      "id": "healthcare-ai",
+      "title": "Healthcare AI Predictive Risk Engine (IDEAGEN)",
+      "subtitle": "Hackathon Runner-Up (24-Hour Sprint)",
+      "description": "Built a predictive patient health risk engine in a high-pressure 24-hour sprint at the IDEAGEN Healthcare AI Hackathon 2025, winning Runner-Up honors.",
+      "tags": ["Python", "Machine Learning", "FastAPI", "Risk Modeling", "Real-Time"],
+      "featured": true,
+      "badge": "Runner-Up Hackathon"
+    },
+    {
+      "id": "svrm-college",
+      "title": "SVRM College Official Website",
+      "subtitle": "Institutional Portal Serving Thousands",
+      "description": "Built the official responsive web portal for Sree Velagapudi Ramakrishna Memorial College focusing on accessibility, fast load speeds, and institutional governance.",
+      "website": "https://www.svrmc.in",
       "certificate": "https://drive.google.com/file/d/1OD1Wa6sl5B0R2ZK95aYi-wk7m3iz4vf9/view?usp=drive_link",
-      "tags": ["Web Development", "Education", "Accessibility"]
+      "tags": ["Web Development", "Accessibility", "Performance", "Production"],
+      "featured": false,
+      "badge": "Official Letter of Appreciation"
     },
     {
-      "name": "Food Waste Management System",
-      "description": "System designed to reduce food waste and improve distribution",
-      "website": "https://enchanting-manatee-258768.netlify.app/#contact",
-      "tags": ["Social Impact", "Web Development"]
+      "id": "brain-tumor",
+      "title": "Brain Tumor MRI Classification Model",
+      "subtitle": "Deep Learning Computer Vision",
+      "description": "Deep learning convolutional neural network (CNN) built using Keras, TensorFlow, and Flask for automated categorization of MRI brain scans.",
+      "github": "https://github.com/harshithreddy-08/brain-tumor-app",
+      "tags": ["CNN", "Keras", "TensorFlow", "Flask", "Computer Vision"],
+      "featured": false
+    },
+    {
+      "id": "attendance-ai",
+      "title": "AI Facial Recognition Attendance System",
+      "subtitle": "Biometric Edge Automation",
+      "description": "Automated attendance tracking system with high-speed facial detection and recognition pipelines eliminating manual logging.",
+      "github": "https://github.com/harshithreddy-08/Attendence-recognition-",
+      "tags": ["Face Detection", "OpenCV", "Python", "Biometrics"],
+      "featured": false
     }
   ],
   "achievements": [
     {
-      "title": "Certificate of Appreciation",
-      "organization": "Astram Labs, IIT Hyderabad",
-      "description": "Recognized for developing and deploying a professional website with exceptional quality and performance",
+      "title": "Runner-Up: Healthcare AI Hackathon",
+      "organization": "IDEAGEN Healthcare AI Hackathon (2025)",
+      "description": "Architected and built a predictive health risk system in a high-intensity 24-hour sprint, beating out dozens of competitive teams."
+    },
+    {
+      "title": "Official Letter of Appreciation",
+      "organization": "ASTRAM Lab, IIT Hyderabad (2024)",
+      "description": "Formally recognized by IIT Hyderabad leadership for exceptional engineering, rapid feature turnaround, and production deployment.",
       "link": "https://drive.google.com/file/d/11MSHoAydt4cnB90ybTB2G5lye7W1vd81/view?usp=sharing"
     },
     {
-      "title": "Certificate of Appreciation",
+      "title": "Official Letter of Appreciation",
       "organization": "SVRM College",
-      "description": "Acknowledged for building the official college website with modern design and accessibility features",
+      "description": "Awarded for designing and deploying the institutional web platform with modern architecture and accessibility standards.",
       "link": "https://drive.google.com/file/d/1OD1Wa6sl5B0R2ZK95aYi-wk7m3iz4vf9/view?usp=drive_link"
     },
     {
-      "title": "AI/ML Project Recognition",
-      "organization": "University Showcase",
-      "description": "Projects featured in university showcase for innovative applications of artificial intelligence and machine learning"
+      "title": "HackerRank SQL Certified",
+      "organization": "HackerRank",
+      "description": "Demonstrated advanced relational database competency, query optimization, complex joins, and window functions."
     }
-  ],
-  "internships": [
-    {
-      "company": "Cognitzy",
-      "role": "Intern",
-      "description": "Worked on AI and ML projects"
-    },
-    {
-      "company": "Code Alpha",
-      "role": "Intern",
-      "description": "Full stack development internship"
-    }
-  ],
-  "highlights": [
-    "Clean Code - Writing maintainable, scalable solutions",
-    "Fast Delivery - Production-grade projects on time",
-    "Goal-Oriented - Focused on measurable impact"
-  ],
-  "seeking": "Currently seeking internships where I can leverage my full-stack development and AI/ML expertise to create impactful solutions, especially with goSTOPS to help shape the future of youth travel in India."
+  ]
 }
