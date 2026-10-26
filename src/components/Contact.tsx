@@ -48,7 +48,7 @@ export function Contact() {
   const isInView = useInView(ref, { once: true, margin: "-100px" });
   const [isResumeOpen, setIsResumeOpen] = useState(false);
 
-  const driveResumeUrl = "https://drive.google.com/file/d/1OD1Wa6sl5B0R2ZK95aYi-wk7m3iz4vf9/view?usp=drive_link";
+  const driveResumeUrl = portfolioData.contact.resumeUrl || "https://drive.google.com/file/d/11I75Xndc2s0IUP47EZPlVxzE2_qZCw9g/view?usp=sharing";
 
   return (
     <>

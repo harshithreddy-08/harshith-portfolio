@@ -7,7 +7,7 @@ export function Navigation() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
-  const driveResumeUrl = "https://drive.google.com/file/d/1OD1Wa6sl5B0R2ZK95aYi-wk7m3iz4vf9/view?usp=drive_link";
+  const driveResumeUrl = "https://drive.google.com/file/d/11I75Xndc2s0IUP47EZPlVxzE2_qZCw9g/view?usp=sharing";
 
   useEffect(() => {
     const handleScroll = () => {
