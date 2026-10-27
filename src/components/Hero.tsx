@@ -5,6 +5,7 @@ import { ParticleBackground } from "./ParticleBackground";
 import { useEffect, useState } from "react";
 import profileImg from "../assets/profile.png";
 import { ResumeModal } from "./ResumeModal";
+import portfolioData from "../data/portfolio.json";
 
 export function Hero() {
   const [isResumeOpen, setIsResumeOpen] = useState(false);

@@ -5,6 +5,7 @@ import { Card, CardContent } from "./ui/card";
 import { Mail, Phone, Linkedin, Github, MapPin, FileText, Send, ArrowRight, Sparkles, ExternalLink } from "lucide-react";
 import { Button } from "./ui/button";
 import { ResumeModal } from "./ResumeModal";
+import portfolioData from "../data/portfolio.json";
 
 const contactInfo = [
   {
